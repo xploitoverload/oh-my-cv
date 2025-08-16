@@ -48,10 +48,6 @@ Contributions are welcome. Please read this [Contributing Guide](.github/CONTRIB
 
 &nbsp;
 
-## Credits
-
-- [billryan/resume](https://github.com/billryan/resume)
-
 
 &nbsp;
 
