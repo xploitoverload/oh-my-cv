@@ -57,7 +57,7 @@ jobs:
         working-directory: site
 
       - name: Build site
-        run: pnpm generate
+        run: pnpm build
         working-directory: site
         env:
           NUXT_PUBLIC_GOOGLE_FONTS_KEY: ${{ secrets.GOOGLE_FONTS_KEY }}
