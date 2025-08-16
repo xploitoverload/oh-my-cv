@@ -1,10 +1,10 @@
 # Nuxt dev/build outputs
-.output
-.data
-.nuxt
-.nitro
-.cache
-dist
+# .output
+# .data
+# .nuxt
+# .nitro
+# .cache
+# dist
 
 # Node dependencies
 node_modules
@@ -19,6 +19,6 @@ logs
 .vscode
 
 # Local env files
-.env
-.env.*
-!.env.example
+# .env
+# .env.*
+# !.env.example
