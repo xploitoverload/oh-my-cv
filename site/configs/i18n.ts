@@ -1,6 +1,7 @@
 import type { NuxtI18nOptions } from "@nuxtjs/i18n";
 
 export const i18n: NuxtI18nOptions = {
+  restructureDir: "src",
   defaultLocale: "en",
   strategy: "prefix_and_default",
   locales: [
