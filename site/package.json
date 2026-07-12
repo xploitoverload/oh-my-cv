@@ -12,7 +12,7 @@
     "@iconify/json": "^2.2.225",
     "@nuxt/devtools": "latest",
     "@nuxtjs/color-mode": "^3.4.2",
-    "@nuxtjs/i18n": "^8.3.1",
+    "@nuxtjs/i18n": "^9.5.6",
     "@ohmycv/case-police": "workspace:*",
     "@ohmycv/dynamic-css": "workspace:*",
     "@ohmycv/front-matter": "workspace:*",
@@ -50,6 +50,7 @@
     "tailwind-merge": "^2.3.0",
     "unocss-preset-animations": "^1.0.2",
     "unocss-preset-shadcn": "^0.3.1",
+    "vue": "^3.5.0",
     "vue-sonner": "^1.1.3"
   }
 }
